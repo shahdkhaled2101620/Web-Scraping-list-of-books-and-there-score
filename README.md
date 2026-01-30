@@ -1,4 +1,4 @@
-#📚 Goodreads Books Web Scraping Project
+📚 Goodreads Books Web Scraping Project
 📌 Project Overview
 
 This project demonstrates web scraping using Python to collect book data from Goodreads.
@@ -104,6 +104,3 @@ Ranked books based on score
 Clean and structured data
 
 Ready-to-use dataset for analysis or visualization
-
-
-Automate scraping using functions or classes
